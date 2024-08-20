@@ -3,6 +3,7 @@ Gui calculator v.2.0
                 * Add some Guii interface
                 * cleaning button CALLED(AC)
                 * calcutate pecentage(%)
-                * convet "-","+" of numbers as user prefer
+                * convert "-","+" of numbers as user prefer
 
-if you want to test ,RUN CALCULATOR.PY file.(new version)
+if you want to test ,RUN CALCULATOR.PY file  (new version)
+![cal](calculator_img.png)
