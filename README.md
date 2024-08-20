@@ -6,4 +6,4 @@ Gui calculator v.2.0
                 * convert "-","+" of numbers as user prefer
 
 if you want to test ,RUN CALCULATOR.PY file  (new version)
-![cal](calculator_img.png)
+![cal](calculator_img.PNG)
