@@ -5,5 +5,4 @@
                > * calcutate pecentage(%)
                > * convert "-","+" of numbers as user prefer
 
-### if you want to test ,RUN CALCULATOR.PY file  (new version)
 ![cal](calculator_img.PNG)
